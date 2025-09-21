@@ -2,6 +2,6 @@ Uma expressão regular que represente todas as strings binárias que não conten
 ^1*(0+1?)*0*$  
 
 Esta expressão regular valida strings binárias que nunca contêm a subsequência "011", estruturando a string em três partes:  
-- 0 ou 1's iniciais seguros (`1*`);  
+- 0 ou 1's iniciais (`1*`);  
 - Grupos de um ou mais 0's seguidos opcionalmente por um único 1 (`(0+1?)*`), evitando que dois 1's apareçam consecutivamente após um 0;  
-- Zeros finais inofensivos (`0*`).  
+- Zeros finais (`0*`).  
