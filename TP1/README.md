@@ -11,5 +11,5 @@ Resumo:
   Este trabalho tem como objetivo principal encontrar uma expressão regular que represente todas as strings binárias que não contenham a subsequência "011".
   Para tal recorri ao uso do site https://regex101.com/ para chegar à resposta e para testar os exemplos que serão apresentados em diante. 
 
-Resultado
+[Resultado](resultado.txt) 
   
