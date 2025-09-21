@@ -1,1 +1,4 @@
-a
+Uma expressão regular que represente todas as strings binárias que não contenham a subsequência "011" é ^1*(0+1?)*0*$. 
+
+Esta expressão regular (^1*(0+1?)*0*$) valida strings binárias que nunca contêm a subsequência "011", estruturando a string em três partes: 0 ou 1's iniciais (1*), grupos de um ou mais 0's seguidos opcionalmente por um único 1 ((0+1?)*) evitando assim que dois 1's apareçam consecutivamente após um 0 e 0's finais (0*). 
+
