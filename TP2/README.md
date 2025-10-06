@@ -10,5 +10,6 @@ Feito por:
 ## Resumo
 
 Este trabalho tem como objetivo criar em Python um pequeno conversor de MarkDown para HTML para os elementos descritos na "Basic Syntax" da Cheat Sheet.
-Para tal recorri ao uso do programa **Jupyter Notebook** para criar e testar o conversor, presente em [Resultado](Resultado.py).
+Para tal, recorri ao uso do programa **Jupyter Notebook** para criar e testar o conversor, presente em [Resultado](Resultado.py).
 
+O output deste conversor pode ser observado em [output](output.png), onde estão também presentes o código e o input, denominado como "markdown".
