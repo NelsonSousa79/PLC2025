@@ -189,12 +189,12 @@ Para efeitos de teste dos códigos desenvolvidos, anexam-se várias capturas de 
 <ol>
   <li>
 
-  **Testes do Utilizador** - [Teste de Funcionalidades](Screenshot From 2025-10-20 21-16-38.png) e [Teste de Armazenamento de Informação em stock.JSON](Screenshot From 2025-10-20 21-16-59.png)
+  **Testes do Utilizador** - [Teste de Funcionalidades](output1.png) e [Teste de Armazenamento de Informação em stock.JSON](output2.png)
     
   </li>
 
   <li>
 
-  **Testes do Administrador** - [Interface e Testes de Adicionar Produtos no Stock](Screenshot From 2025-10-20 21-18-37.png) e [Teste de Remoção Parcial e Remoção Total de Produtos do Stock](Screenshot From 2025-10-20 21-18-58.png)
+  **Testes do Administrador** - [Interface e Testes de Adicionar Produtos no Stock](output3.png) e [Teste de Remoção Parcial e Remoção Total de Produtos do Stock](output4.png)
   </li>
 </ol>
