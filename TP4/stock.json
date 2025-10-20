@@ -1,0 +1,26 @@
+[
+    {
+        "cod": "A23",
+        "nome": "Água 0.5L",
+        "quant": 8,
+        "preco": 0.7
+    },
+    {
+        "cod": "A1",
+        "nome": "Pacote de Bolachas",
+        "quant": 7,
+        "preco": 1.2
+    },
+    {
+        "cod": "A2",
+        "nome": "Leite",
+        "quant": 10,
+        "preco": 0.5
+    },
+    {
+        "cod": "A3",
+        "nome": "pão",
+        "quant": 10,
+        "preco": 6.0
+    }
+]
